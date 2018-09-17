@@ -7,8 +7,8 @@ Collaborators:
 * [*cairns0214*][2]
 
 # Motivation
-For the purpose of completing our professional practise and, more importantly, improving our professional competence, we consider a 
-lot and finally decide to develop a tiny online shopping platform for the sake of its proper complexity in both Front-End and Back-End
+* For the purpose of completing our professional practise and, more importantly, improving our professional competence, we consider a 
+  lot and finally decide to develop a tiny online shopping platform for the sake of its proper complexity in both Front-End and Back-End
 
 # Module Introduction
 * User Login
