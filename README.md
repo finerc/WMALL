@@ -25,7 +25,7 @@ lot and finally decide to develop a tiny online shopping platform for the sake o
 # Project Division
 * Web Front-End：[*lostholy*][1]
 * Mobile Front-End: [*finerc*][3]
-* Back-End: * [*cairns0214*][2]
+* Back-End: [*cairns0214*][2]
 
 [1]: https://github.com/lostholy
 [2]: https://github.com/cairns0214
