@@ -26,8 +26,7 @@ lot and finally decide to develop a tiny online shopping platform for the sake o
 * Mobile Front-End: [*finerc*][3]
 * Back-End: [*cairns0214*][2]
 
-Time Line
-==============
+# Time Line
 ## Week1
 
 [1]: https://github.com/lostholy
