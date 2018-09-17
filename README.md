@@ -1,4 +1,3 @@
-# WMALL
 # Introduction
 This is an Online Shopping Platform called WMALL, which uses TMALL as reference
 
@@ -26,6 +25,10 @@ lot and finally decide to develop a tiny online shopping platform for the sake o
 * Web Front-End：[*lostholy*][1]
 * Mobile Front-End: [*finerc*][3]
 * Back-End: [*cairns0214*][2]
+
+# Time Line
+==============
+## Week1
 
 [1]: https://github.com/lostholy
 [2]: https://github.com/cairns0214
