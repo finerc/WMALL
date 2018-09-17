@@ -28,7 +28,8 @@ lot and finally decide to develop a tiny online shopping platform for the sake o
 
 # Time Line
 ## Week1
-
+* In this week we will analyze the demand of market and accordingly work out an overall plan to guide our follow-up work. In the mean time,   we will assign our job and set out to learn related techniques.
+  
 [1]: https://github.com/lostholy
 [2]: https://github.com/cairns0214
 [3]: https://github.com/finerc
