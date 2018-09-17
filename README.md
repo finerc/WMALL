@@ -1,3 +1,3 @@
 # WMALL
 # Introduction
-This is a online shopping platform called WMALL, which uses TMALL as reference
+This is an Online Shopping Platform called WMALL, which uses TMALL as reference
