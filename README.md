@@ -20,6 +20,7 @@ Collaborators:
 # Development Environment
 * Android Studio
 * Python2.7
+* CSS,HTML,JavaScript(Vue)
 
 # Project Division
 * Web Front-End：[*lostholy*][1]
